@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+did some scafloing 
 
-Things you may want to cover:
+we got a cookbook at /recipes
 
-* Ruby version
+user registration with email at /users
 
-* System dependencies
+some other stuff at /ponies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+and a resume recordset with file handeling at /resumes
